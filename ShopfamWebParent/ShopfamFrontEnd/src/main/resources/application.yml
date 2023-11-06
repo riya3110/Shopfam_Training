@@ -1,0 +1,29 @@
+server:
+  port: 80
+  servlet:
+    context-path: /Shopfam
+spring:
+  datasource:
+    password: Riya@3110
+    url: jdbc:mysql://localhost:3306/shopfamdb
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format_sql: true
+    show-sql: true
+   
+  security:
+    oauth2:
+     client:
+      registration:
+        google:
+          client-id: 688164866603-sefndf3vo80ha3a0p7h5l5t89a9puag8.apps.googleusercontent.com
+          client-secret: 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
+          scope:
+          - email
+          - profile
+   
