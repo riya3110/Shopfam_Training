@@ -49,10 +49,10 @@
   **Manage Customers Page**
   ![backend_6](https://github.com/riya3110/Shopfam_Training/assets/69893597/5c234e9f-4d66-4bb7-9c65-f34d3cd7b0a0)
 
-  **Manage Shopping Rates**
+  **Manage Shipping Rates Page**
   ![backend_7](https://github.com/riya3110/Shopfam_Training/assets/69893597/e8373ef0-8af2-4daf-9e42-95e62e3a2e13)
 
-  **Manage Orders**
+  **Manage Orders Page**
   ![backend_8](https://github.com/riya3110/Shopfam_Training/assets/69893597/8c76b8f9-19b6-4761-aba6-9378a3775c0d)
 
   **Manage Settings Page**
@@ -80,15 +80,16 @@
     the spring starter project , a subdirectory under the directory of Shopfam project by creating a new folder as a module 2 of shopfamProject
     the purpose of this project is to have the common dependencies between the two sub projects ( **backend** and **frontend**)
 
-    **Backend - This is an admin App**
+  - **Backend - This is an admin App**
     - In the Backend their are 7 type of users which will have acces to application-
-      **Admin** - manages everything on websites including manage settings and manage users.
-      **Editor**  -   manage categories , manage articles , manage brands , manage menus, manage products
-      **Salesperson** - manage orders, customers, update product price , view products , manage shipping rates.
-      **SHIPPER**-  view products , view orders , update order status
-      **Assistant** -  manage questions , reviews
-     **FrontEnd - This is Shopping App (The Shopping UI for Customers)**
-     - In the Front end customers can-
+      - **Admin** - manages everything on websites including manage settings and manage users.
+      - **Editor**  -   manage categories , manage articles , manage brands , manage menus, manage products
+      - **Salesperson** - manage orders, customers, update product price , view products , manage shipping rates.
+      - **SHIPPER**-  view products , view orders , update order status
+      - **Assistant** -  manage questions , reviews
+      
+   - **FrontEnd - This is Shopping App (The Shopping UI for Customers)**
+      - In the Front end customers can-
        - Manage Shopping cart
        - View products
        - View articles
