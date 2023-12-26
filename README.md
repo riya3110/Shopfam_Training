@@ -69,32 +69,10 @@
 
   **Edit Products Page**
   ![backend_13](https://github.com/riya3110/Shopfam_Training/assets/69893597/dd7b24ad-ef26-4126-889b-8469611202a8)
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-
-  
-
-
   
   ## Overview
+  Developed a complete shopping website using technologies such as Java , Spring Boot , Hibernate , Thymeleaf , Bootstrap , JQuery , HTML , RESTful Webservices.... putting all these 
+  peices together built a WebApp named **Shopfam - An E-Commerce Web Application for Shopping Electronics** 
 
   ## Technical Aspects
 
