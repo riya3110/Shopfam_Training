@@ -1,8 +1,8 @@
 # Shopfam_Training 
 ## Table of Content
-- [Features](https://github.com/riya3110/Shopfam_Training/tree/main?tab=readme-ov-file#features)
 - [Demo](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#demo)
 - [Overview](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#overview)
+- [Features](https://github.com/riya3110/Shopfam_Training/tree/main?tab=readme-ov-file#features)
 - [Technical Aspects](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technical-aspects)
 - [Installation](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Installation)
 - [Technologies used](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technologies-used)
