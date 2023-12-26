@@ -1,6 +1,6 @@
 # Shopfam_Training 
 ## Table of Content
-- [Demo]( ## Demo)
+- [Demo](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#demo)
 - [Overview]
 - [Technical Aspects]
 - [Installation]
