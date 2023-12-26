@@ -88,8 +88,8 @@
       - **SHIPPER**-  view products , view orders , update order status
       - **Assistant** -  manage questions , reviews
       
-   - **FrontEnd - This is Shopping App (The Shopping UI for Customers)**
-      - In the Front end customers can-
+  - **FrontEnd - This is Shopping App (The Shopping UI for Customers)**
+    - In the Front end customers can-
        - Manage Shopping cart
        - View products
        - View articles
