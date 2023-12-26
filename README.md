@@ -1,11 +1,11 @@
 # Shopfam_Training 
 ## Table of Content
 - [Demo](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#demo)
-- [Overview]
-- [Technical Aspects]
-- [Installation]
-- [Execution]
-- [Technologies used]
+- [Overview](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#overview)
+- [Technical Aspects](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Technical Aspect)
+- [Installation](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Installation)
+- [Execution](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Execution)
+- [Technologies used](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Technologies Used)
 
   ## Demo
 
