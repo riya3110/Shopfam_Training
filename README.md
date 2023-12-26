@@ -105,7 +105,18 @@
       - Use dependency Spring Data JPA
 
   ## Installation
-  The code is written in Java 
+  The code is written in Java 17 , Spring Boot 3.2.0 
   ## Execution
 
   ## Technologies Used
+  - Spring Framework development with Spingboot
+  - Spring Data JPA and Hibernate Framework
+  - Spring Security for Authentication and Authorization
+  - Spring OAuth for social login with Google
+  - Thymeleaf template engine for creating dynamic web pages
+  - MySQL database for database Management of the project
+  - Spring Mail for sending customer Registration confirmation and order cofirmation
+  - JUnit ,Spring Test, AssertJ and Mockito in unit tests and Integration tests
+  - Spring RESTful WebServices
+  - Bootstrap 4 , HTML5 and jQuery 3
+  - Java 17 , JSP/Servlets and JavaScript
