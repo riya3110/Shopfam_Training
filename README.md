@@ -5,7 +5,7 @@
 - [Technical Aspects](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technical-aspects)
 - [Installation](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Installation)
 - [Execution](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Execution)
-- [Technologies used]
+- [Technologies used](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technologies-used)
 
   ## Demo
 
