@@ -75,10 +75,36 @@
   peices together built a WebApp named **Shopfam - An E-Commerce Web Application for Shopping Electronics** 
 
   ## Technical Aspects
-  
+  The working of the project has 2 project directories which are explained one after other in sequence
+  - **ShopfamWebParent**
+    the spring starter project , a subdirectory under the directory of Shopfam project by creating a new folder as a module 2 of shopfamProject
+    the purpose of this project is to have the common dependencies between the two sub projects ( **backend** and **frontend**)
+
+    **Backend - This is an admin App**
+    - In the Backend their are 7 type of users which will have acces to application-
+      **Admin** - manages everything on websites including manage settings and manage users.
+      **Editor**  -   manage categories , manage articles , manage brands , manage menus, manage products
+      **Salesperson** - manage orders, customers, update product price , view products , manage shipping rates.
+      **SHIPPER**-  view products , view orders , update order status
+      **Assistant** -  manage questions , reviews
+     **FrontEnd - This is Shopping App (The Shopping UI for Customers)**
+     - In the Front end customers can-
+       - Manage Shopping cart
+       - View products
+       - View articles
+       - Manage addresses
+       - Checkout
+         
+  - **ShopfamCommon**
+    The spring starter project , a subdirectory under the directory of Shopfam Project by creating a new folder .
+    The project shopfam Common is for developing the shared lib or shared code between the backend and frontend
+    the shopfam common project will have entity classes which are based on spring data JPA 
+      - Use packaging as JAR
+      - Build type is Maven
+      - Use dependency Spring Data JPA
 
   ## Installation
-
+  The code is written in Java 
   ## Execution
 
   ## Technologies Used
