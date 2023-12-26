@@ -1,11 +1,25 @@
 # Shopfam_Training 
 ## Table of Content
+- [Features]()
 - [Demo](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#demo)
 - [Overview](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#overview)
 - [Technical Aspects](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technical-aspects)
 - [Installation](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Installation)
 - [Technologies used](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technologies-used)
 
+  ## Features
+  - Register a new account and log in as an existing user
+  - Register using Google Account log in
+  - Search Products using keyword and/or Category
+  - Display products with details about them(name , picture , image , price)
+  - Add Produt to shopping cart and ability to remove it
+  - See all products in user's shopping cart
+  - Sign out or delete user's account
+  - Update Password
+  - Update the user's Shipping Address and/or Remove the address
+  - Get the Google mail for customer registration and Verification
+  - Track status of user's orders
+    
   ## Demo
   ### Frontend 
   **Login Page**
