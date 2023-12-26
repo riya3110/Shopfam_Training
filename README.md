@@ -1,4 +1,9 @@
 # Shopfam_Training 
-# This is a Shopping Web Application
-
-# Table Of Content
+## Table of Content
+- [Demo]
+- [Overview]
+- [Technical Aspects]
+- [Installation]
+- [Execution]
+- [Technologies used]
+  
