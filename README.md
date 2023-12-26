@@ -4,7 +4,6 @@
 - [Overview](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#overview)
 - [Technical Aspects](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technical-aspects)
 - [Installation](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Installation)
-- [Execution](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#Execution)
 - [Technologies used](https://github.com/riya3110/Shopfam_Training/blob/main/README.md#technologies-used)
 
   ## Demo
@@ -106,7 +105,6 @@
 
   ## Installation
   The code is written in Java 17 , Spring Boot 3.2.0 
-  ## Execution
 
   ## Technologies Used
   - Spring Framework development with Spingboot
