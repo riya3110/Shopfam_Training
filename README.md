@@ -30,6 +30,59 @@
   **Email Handler Page**
   ![frontend_6](https://github.com/riya3110/Shopfam_Training/assets/69893597/28ccf5d0-7bf2-4387-a934-3df9ef87ac33)
 
+  ### Backend
+  **Login Page**
+  ![backend_1](https://github.com/riya3110/Shopfam_Training/assets/69893597/1d4abf06-3bcb-4436-b65e-c887b4bf84a8)
+
+  **Users Page**
+  ![backend_2](https://github.com/riya3110/Shopfam_Training/assets/69893597/b91a6f9e-01b4-456d-bb08-fdd1977cbe69)
+
+  **Manage Categories Page**
+  ![backend_3](https://github.com/riya3110/Shopfam_Training/assets/69893597/792dda6f-dd91-4f4a-bfbd-4093d0ba968c)
+
+  **Manage Brands Page**
+  ![backend_4](https://github.com/riya3110/Shopfam_Training/assets/69893597/c3b87c9a-1012-4a99-b6d3-d7ca2da95539)
+
+  **Manage Products Page**
+  ![backend_5](https://github.com/riya3110/Shopfam_Training/assets/69893597/12a57fa7-b25d-4f24-b15d-32444d37ccac)
+
+  **Manage Customers Page**
+  ![backend_6](https://github.com/riya3110/Shopfam_Training/assets/69893597/5c234e9f-4d66-4bb7-9c65-f34d3cd7b0a0)
+
+  **Manage Shopping Rates**
+  ![backend_7](https://github.com/riya3110/Shopfam_Training/assets/69893597/e8373ef0-8af2-4daf-9e42-95e62e3a2e13)
+
+  **Manage Orders**
+  ![backend_8](https://github.com/riya3110/Shopfam_Training/assets/69893597/8c76b8f9-19b6-4761-aba6-9378a3775c0d)
+
+  **Manage Settings Page**
+  ![backend_9](https://github.com/riya3110/Shopfam_Training/assets/69893597/cf7dd89b-f30c-4f18-a3ee-7ea5d5e95379)
+
+  **Create User Page**
+  ![backend_10](https://github.com/riya3110/Shopfam_Training/assets/69893597/e4a15afe-af5b-4825-8535-f719d4f7fa2c)
+
+  **Edit User Page**
+  ![backend_11](https://github.com/riya3110/Shopfam_Training/assets/69893597/7d9440a0-e234-4e9d-9ea2-35f76a1ffafd)
+
+  **Edit Categories Page**
+  ![backend_12](https://github.com/riya3110/Shopfam_Training/assets/69893597/06af9004-e710-4586-afa0-2ff34dd97dba)
+
+  **Edit Products Page**
+  ![backend_13](https://github.com/riya3110/Shopfam_Training/assets/69893597/dd7b24ad-ef26-4126-889b-8469611202a8)
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
 
   
 
